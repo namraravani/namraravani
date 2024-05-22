@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **QuestCraft**
 
-- 🌱 I’m currently learning **React,Next**
+- 🌱 I’m currently learning **Next**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-67ca4.web.app/](https://personal-portfolio-67ca4.web.app/)
 
