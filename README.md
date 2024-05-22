@@ -3,7 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namraravani&label=Profile%20views&color=0e75b6&style=flat" alt="namraravani" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namraravani" alt="namraravani" /></a> </p>
+
+- 🔭 I’m currently working on **QuestCraft**
+
+- 🌱 I’m currently learning **React,Next**
+
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-67ca4.web.app/](https://personal-portfolio-67ca4.web.app/)
+
+- 📝 I regularly write articles on [https://www.my-article-city.com/2023/11/understanding-object-detection-with.html](https://www.my-article-city.com/2023/11/understanding-object-detection-with.html)
+
+- 💬 Ask me about **Web Development and App Development**
+
 - 📫 How to reach me **namraravani@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10wODKHr3hRRfMAuf51PnQApzBqw2Hk-z/view](https://drive.google.com/file/d/10wODKHr3hRRfMAuf51PnQApzBqw2Hk-z/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namraravani&show_icons=true&locale=en&layout=compact" alt="namraravani" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namraravani&show_icons=true&locale=en" alt="namraravani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namraravani&" alt="namraravani" /></p>
