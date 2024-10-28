@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-67ca4.web.app/](https://personal-portfolio-67ca4.web.app/)
 
-- 📝 I regularly write articles on [https://www.my-article-city.com/2023/11/understanding-object-detection-with.html](https://www.my-article-city.com/2023/11/understanding-object-detection-with.html)
-
 - 💬 Ask me about **Web Development and DSA**
 
 - 📫 How to reach me **namraravani@gmail.com**
